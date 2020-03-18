@@ -9,38 +9,39 @@ body{
 	background-size: cover; 
 }
 
-div{
+#main{
 	width: 90%;
 	height: 1200px;
 	margin: 0 auto;
 	padding: 12px;
-	border: 1px solid white;
 	background: rgba(255,255,255,0,1); 
 }
 
 h1{
+	color:#D9B341;
+	text-transform: uppercase;
+	font-size: 32px;
 
 }
 
 p{
+	color: #3743FF;
 
 }
 
 img{
 	width: 100%;
 	max-width:100%;
+}
+
+.tagline{
 
 }
 
-.article1{
+.article{
+	width: 33%;
+	display: inline-block;
 
-}
-
-.article2{
-
-}
-
-.article3{
 
 }
 
